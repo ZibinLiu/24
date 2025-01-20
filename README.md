@@ -5,3 +5,5 @@
 # Kailin Fang, kfnora398@gmail.com, catlin518
 # Yanhao He, ei24967@bristol.ac.uk, YanHe225
 # Gongyu Xue, in24247@bristol.ac.uk, xgy56
+
+![image](https://github.com/ZibinLiu/24/blob/main/group_photo.png)
